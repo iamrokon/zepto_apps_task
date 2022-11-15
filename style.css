@@ -1,0 +1,11 @@
+/* @font-face {
+    font-family: myFirstFont;
+    src: url(fonts/BurtonScratch-Regular.ttf);
+}
+
+.custom_font{
+    font-family: myFirstFont;
+} */
+#fontGroupEditModal .modal-dialog {
+    max-width: 90%!important;
+}
