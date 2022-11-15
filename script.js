@@ -201,6 +201,7 @@ function createFontGroup(){
                 form.reset()
                 $('#createFontGroup').load(location.href + " #createFontGroup")
                 alert("Group created successfully!")
+                getFont()
                 getFontGroup()
             }
         }
